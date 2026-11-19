@@ -101,7 +101,7 @@ model Business {
   services        Service[]
   documents       BusinessDocument[]
   enquiries       Enquiry[]
-  categories      BusinessCategory[]
+  categoryLinks   BusinessCategoryLink[]
 }
 
 model BusinessMember {
