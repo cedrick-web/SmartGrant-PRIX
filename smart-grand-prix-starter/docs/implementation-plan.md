@@ -11,7 +11,7 @@
 - [x] Install dependencies and run type checks locally
 - [x] Create MySQL database and run first migration
 - [x] Add automated API and frontend smoke tests
-- [ ] Push to user's GitHub repository
+- [x] Publish Sprint 1 updates on a GitHub branch
 
 ## Sprint 2: authentication and administration
 
