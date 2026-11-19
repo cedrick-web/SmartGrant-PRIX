@@ -57,6 +57,14 @@ npm.cmd run dev
 - Frontend: http://localhost:5173
 - API health: http://localhost:4000/api/health
 
+## Run checks
+
+```powershell
+npm.cmd run typecheck
+npm.cmd test
+npm.cmd run build
+```
+
 ## Important development notes
 
 - This is a foundation scaffold, not a production-ready platform.

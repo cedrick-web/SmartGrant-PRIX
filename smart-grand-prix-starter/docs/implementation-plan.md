@@ -8,9 +8,9 @@
 - [x] MySQL Prisma schema draft
 - [x] Environment example and ignore rules
 - [x] Product decisions and architecture documentation
-- [ ] Install dependencies and run type checks locally
-- [ ] Create MySQL database and run first migration
-- [ ] Add automated API and frontend smoke tests
+- [x] Install dependencies and run type checks locally
+- [x] Create MySQL database and run first migration
+- [x] Add automated API and frontend smoke tests
 - [ ] Push to user's GitHub repository
 
 ## Sprint 2: authentication and administration
